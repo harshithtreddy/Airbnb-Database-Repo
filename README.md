@@ -21,8 +21,3 @@ Window functions
 Temporary objects
 
 User defined functions
-
-CREDITS
-
-The project was in collaboration with Manthan Mehta, Harshi Thaker & Aayushi Gandhi.
-# Airbnb-Database-Repo
